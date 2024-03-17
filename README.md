@@ -1,1 +1,1 @@
-# Anomaly-Detection-Notes and WhereAbouts
+# Anomaly-Detection-Notes
