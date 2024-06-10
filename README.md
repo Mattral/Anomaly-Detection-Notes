@@ -228,6 +228,7 @@ model အတွက်က
 မသက်ဆိုင်တဲ့ Topic မှာ
 ရေးထားတဲ့ စာတွေက
 Outlier ဖြစ်နေမှာပါ
+
 အလွယ်တကူ
 ပေါ်လာတတ်ပါတယ်
 
@@ -332,8 +333,8 @@ damage ပေးလိုက်လို့လည်းရတယ်
 one-class classification ကို
 algorithms အမျိုးမျိုးနဲ့ သုံးလို့ရတယ်
 
-SVM
-isolation forest
+SVM, 
+isolation forest, 
 autoencoder တွေလိုပေါ့
 
 
