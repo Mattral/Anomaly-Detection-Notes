@@ -6,8 +6,10 @@ Anomaly detection is a statistical technique that identifies rare events, observ
 
 Anomaly detection made easy🔥
 based on personal experience *
+
 Outliers / Anomaly အကြောင်း
-နဲနဲရေးမယ်
+
+
 ကျွန်တော်တို့က 
 model မတည်ဆောက်ခင်
 data တွေက
@@ -16,18 +18,25 @@ distribution နဲ့
 အချင်းချင်း ဘယ်လို 
 ဆက်သွယ်မှုရှိလဲ ဆိုတဲ့
 Ontology ဆိုတာရှိပါတယ်
+
+
 _______ Outlier (or) Anomaly ________
+
+
 Anomaly လိူ့လဲခေါ်တဲ့
 Outlier ဆိုတာကတော့
 ပုံမှန် data distributionနဲ့မတူဘဲ
  သီးခြားကွဲထွက်နေတဲ့
 data point တွေပေါ့
+
  ပုံမှန်ဒေတာတွေမှာ 
 model က result 
 ခန့်မှန်းဖို့ လွယ်ပေမယ့် 
 Outlier တွေမှာဆိုရင်တော့
  model က result ကို
 ခန့်မှန်းဖို့ကခတ်ပါတယ် ။ 
+
+
 false prediction 
 တလွဲတွေ
 ထုတ်မယ်ပေါ့
@@ -36,10 +45,14 @@ false alarm အပြင်
 anomaly ကိုယ်တိုင်က
 သီးခြား feature အနေနဲ့
 စစ်ထူတ်ရတာရှိပါတယ်
+
+
 ဥပမာ 
 FinTech က Fraud နဲ့ 
 Cyber security လို
 နေရာတွေမှာပါ
+
+
 _____
 ကျွန်တော်တို့အလုပ်မှာဆို
 အပိုင်း step တွေထဲက
@@ -76,6 +89,7 @@ Theory အရ
 ပြောနေတာဆိုရင်ပေါ့
 
 {
+
 ခက်တယ် ပြောကြတာက
 tutorial ရှားလို့ပါ
 
@@ -87,6 +101,7 @@ tutorial ပေါကြတော့
 ဒါကို tutorial ရှားလို့
 ခက်ပါတယ်
 ပြောကြတာများတယ်
+
 }
 
 အဲဒီတော့ outlier တွေကို
